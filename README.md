@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Computer Science by myself
 - 🎓 I'm a Physics Ph.D candidates graduated in Fluid Mechanics Engineering (M. Sc) 
 - 📫 How to reach me : 
--   E-mail : JuWWZ.Dev@gmail.com
+-   E-mail : JuWZ.Dev@gmail.com
 -   LinkedIn : https://www.linkedin.com/in/julian-wailliez-632463159
 
 <!---
