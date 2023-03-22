@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JuWZOnCloud
-- 👀 I’m interested in developping extended reality applications for scientific purpose and/or STEM teaching 
-- 🌱 I’m currently learning Computer Science by myself
-- 🎓 I'm a Physics Ph.D candidates graduated in Fluid Mechanics Engineering (M. Sc) 
+- 🌱 I’m currently learning Computer Science by myself and more specifically AI.
+- 🎓 I have a PhD in Physics & I am Fluid Mechanics Engineer 
 - 📫 JuWZ.Dev@gmail.com
 - ℹ️ https://www.linkedin.com/in/julian-wailliez-632463159
 
