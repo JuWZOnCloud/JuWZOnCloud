@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JuWZOnCloud
-- 🌱 I’m currently learning Computer Science by myself and more specifically AI.
-- 🎓 I am Fluid Mechanics Engineer (PhD)
+- 🌱 I’m a Certified Data Scientist specialised in AI.
+- 🎓 I am also a Fluid Mechanics Engineer (PhD)
 - 📫 JuWZ.Dev@gmail.com
 - ℹ️ https://www.linkedin.com/in/julian-wailliez-632463159
 
