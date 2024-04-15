@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JuWZOnCloud
 - 🌱 I’m a Certified Data Scientist specialised in AI.
 - 🎓 I am also a Fluid Mechanics Engineer (PhD)
-- 📫 JuWZ.Dev@gmail.com
+- 📫 juwz.dev@gmail.com
 - ℹ️ https://www.linkedin.com/in/julian-wailliez-632463159
 
 <!---
